@@ -53,3 +53,7 @@ Model-Building/Hyperparameter Tuning: This is the final step at which you can tr
 Model Evaluation: Evaluate the models using appropriate evaluation metrics. Note that since the data is imbalanced it is is more important to identify which are fraudulent transactions accurately than the non-fraudulent. Choose an appropriate evaluation metric which reflects this business goal. 
 
 We have used all the basic techniques like EDA, Logistic Regression Classifier, KNN Classifier, Decision Trees Classifier, Linear SVM Classifier, Random Forest Classifier, XGBoost Classifier, Neural Networks, Oversampling Technique (SMOTE) to solve this problem and in the end seelected the best working algorithm and boosting technique with accuracy, recall and ROC-AUC parameters.
+
+
+![image](https://user-images.githubusercontent.com/20797987/111977461-c2e9ff80-8b28-11eb-8bb6-d5b832e28052.png)
+
